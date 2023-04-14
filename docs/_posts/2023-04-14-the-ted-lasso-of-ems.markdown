@@ -5,9 +5,13 @@ date:   2023-04-14 12:20:53 -0400
 categories: jekyll update
 ---
 
-![Believe!](/_site/assets/ted-lasso-believe-gif.gif)
+![Believe!](/assets/ted-lasso-believe-gif.gif)
 
-While filling out a recent job application (one of so, so many), I was asked, "What's your leadership style?" Unlike the countless other times, I've been asked this question today my mind jumped to, "What's manager-speak for ‘I'm kind of the Ted Lasso of Engineering Managers?’" Because, like him, I'm not afraid to look a little goofy to unlock the potential in others. I'm not afraid of asking questions, even if everyone else in the room is afraid to. And if I'm being honest, like him, my leadership style can sometimes be misconstrued as I don't know what I'm doing to those who don’t understand the process.
+<br>
+<br>
+While filling out a recent job application (one of so, so many), I was asked, "What's your leadership style?" Unlike the countless other times, I've been asked this question today my mind jumped to, "What's manager-speak for ‘I'm kind of the Ted Lasso of Engineering Managers?’"
+
+Here's why. Because, like him, I'm not afraid to look a little goofy to help others reach success. Because I'm not afraid of asking questions, even if everyone else in the room is. And if I'm being honest, because like him, in the wrong environment my leadership style can be misconstrued as I don't know what I'm doing. (Also because "manager-speak" is not my first language.)
 
 <b>I try my best to walk into an organization with a healthy respect for the state of the application and organizational culture. I understand that the choices that everyone has made up to that point were made with the best intentions. Our role as engineering leaders is to respect those choices, even if they differ from those we would have made.</b>
 

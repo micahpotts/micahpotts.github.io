@@ -30,10 +30,3 @@ When you’re done laughing.
 I know that it is easier said than done. Many organizations aren’t aware that each person in their interview loop has a different idea of what an Engineering Manager should do! The questions that will give you a great response with one team member can be enough to get you kicked out of the interview loop with another. Pondering this has led me to believe that the solution needs to start on the other side of the fence.
 
 When hiring for an engineering leader, please ensure everyone on the team is aware of and committed to what you are looking for. If you decide on a player/coach, everyone commits to that. If you decide on a people-focused manager, everyone commits to that. Make sure your Job Description states it too. It will help you get what you want, and the exercise will help you understand your organization's needs. And please, leave the magical thinking at the door. Real and lasting change takes time.
-
-
-
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/

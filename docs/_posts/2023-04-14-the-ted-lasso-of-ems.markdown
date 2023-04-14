@@ -2,7 +2,7 @@
 layout: post
 title:  "Believe?"
 date:   2023-04-14 12:20:53 -0400
-categories: jekyll update
+url: "ted-lasso-of-ems"
 ---
 
 ![Believe!](/assets/ted-lasso-believe-gif.gif)

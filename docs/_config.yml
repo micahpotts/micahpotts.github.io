@@ -22,8 +22,8 @@ title: Micah Potts, Engineering Manager At Large
 email: mrs.micahpotts@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   This is the place for me to talk about the industry and my place in it.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/blog" # the subpath of your site, e.g. /blog
+url: "https://micahpotts.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: MizMyKapotz
 github_username:  micahpotts
 

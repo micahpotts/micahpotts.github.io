@@ -1,0 +1,32 @@
+---
+layout: post
+title:  "Believe?"
+date:   2023-04-14 12:20:53 -0400
+categories: jekyll update
+---
+While filling out a recent job application (one of so, so many), I was asked, "What's your leadership style?" Unlike the countless other times, I've been asked this question today my mind jumped to, "What's manager-speak for ‘I'm kind of the Ted Lasso of Engineering Managers?’" Because, like him, I'm not afraid to look a little goofy to unlock the potential in others. I'm not afraid of asking questions, even if everyone else in the room is afraid to. And if I'm being honest, like him, my leadership style can sometimes be misconstrued as I don't know what I'm doing to those who don’t understand the process.
+
+<b>I try my best to walk into an organization with a healthy respect for the state of the application and organizational culture. I understand that the choices that everyone has made up to that point were made with the best intentions. Our role as engineering leaders is to respect those choices, even if they differ from those we would have made.</b>
+
+When I join an organization, it is my duty to learn from those around me and learn about the history of those choices before I suggest changes. To me, that is of the utmost importance. There is no right way to run an engineering organization because they’re PEOPLE and not code. There are best practices, yes, but walking into the (virtual) room, dramatically swooshing everything off of the (virtual) desk, and screaming, “I know best!” is certainly not the way to build trust.
+
+I make it a point to be curious about the people I work with. Curious about how they work best, what brought them here, and their goals. We build a relationship. We build trust. After a time, I can use that trust-based relationship to make personalized and actionable suggestions for them and the team. We can make iterative and measurable changes in the direction we all want to go. We’re in it together!
+
+The downside to this is when an organization is in such dire straights that they believe the desk-sweeping caricature (a “wonder kid,” if you want to keep up the Ted Lasso parallels) is the actual role of an engineering leader. They are often early-stage startups who think an Engineering Manager will solve all their problems (we can certainly try!) immediately (we certainly cannot!). In those environments, my curiosity and deference to the people and processes in place can be seen as a lack of action, not a way to set up long-term success.
+
+In those cases, rushed, sweeping changes can cause an engineering team to fall apart. Burnout. Loss of velocity. Unhappiness. Even mass exodus. No one changes overnight. (No matter what the diet industry wants you to think!) As humans, we work best when we make small, lasting changes. And work towards a long goal. Together.
+
+So what is to be done? Of course, the easy answer is to ask honest, thoughtful interview questions that help you see between the lines and get to the real expectations for the role. (Yep, I just solved it all in one sentence!)
+
+When you’re done laughing.
+
+I know that it is easier said than done. Many organizations aren’t aware that each person in their interview loop has a different idea of what an Engineering Manager should do! The questions that will give you a great response with one team member can be enough to get you kicked out of the interview loop with another. Pondering this has led me to believe that the solution needs to start on the other side of the fence.
+
+When hiring for an engineering leader, please ensure everyone on the team is aware of and committed to what you are looking for. If you decide on a player/coach, everyone commits to that. If you decide on a people-focused manager, everyone commits to that. Make sure your Job Description states it too. It will help you get what you want, and the exercise will help you understand your organization's needs. And please, leave the magical thinking at the door. Real and lasting change takes time.
+
+
+
+
+[jekyll-docs]: https://jekyllrb.com/docs/home
+[jekyll-gh]:   https://github.com/jekyll/jekyll
+[jekyll-talk]: https://talk.jekyllrb.com/
